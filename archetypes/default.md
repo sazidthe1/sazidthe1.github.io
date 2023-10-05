@@ -1,5 +1,5 @@
 ---
 title: '{{ replace .Name "-" " " | title }}'
-date: { .Date }
+date: {{ page.date | date: "%Y-%m-%d %H:%M:%S %z" }}
 draft: true
 ---
