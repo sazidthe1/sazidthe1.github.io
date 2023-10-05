@@ -1,7 +1,6 @@
 ---
 title: "Welcome 👋"
 description: "A bit of myself"
-dateString: Oct 2023
 draft: false
 #tags: ["sazid", "introduction", "story"]
 weight: 101
