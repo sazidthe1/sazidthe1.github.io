@@ -3,6 +3,7 @@ title: sazid
 theme: PaperMod
 paginate: 5
 theme: PaperMod
+publishDir: "docs"
 
 menu:
   main:
