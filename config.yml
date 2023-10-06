@@ -84,7 +84,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Sazidul Islam"
-    subtitle: >
+    subtitle:
       Hey! 👋 I'm Sazid, a Data Analyst at MMC in Asia. 🌏
 
       I find joy in working with data that positively impacts people's lives. 
