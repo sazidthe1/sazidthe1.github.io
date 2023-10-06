@@ -11,18 +11,22 @@ menu:
       name: home
       url: /
       weight: 10
+    - identifier: about
+      name: about
+      url: /about
+      weight: 20
     - identifier: projects
       name: projects
       url: /projects/
-      weight: 20
+      weight: 30
     - identifier: posts
       name: posts
       url: /posts
-      weight: 30
+      weight: 40
     - identifier: contact
       name: contact
       url: /contact/
-      weight: 40
+      weight: 50
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -38,9 +42,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: sazid.me
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: "Sazid" # author: ["Me", "You"] # multiple authors
+  description: "Sazid | Data Evangelist"
+  keywords: [Blog, Data, Portfolio]
+  # author: "Sazid"
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -80,7 +84,15 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Sazidul Islam"
-    subtitle: "Hey there 👋! I am Sazid, a Data Analyst at MMC, located in Asia. 🌏 <br> I am passionate about data, open source, and sharing knowledge with others."
+    subtitle: >
+      Hey! 👋 I'm Sazid, a Data Analyst at MMC in Asia. 🌏
+
+      I find joy in working with data that positively impacts people's lives. 
+      
+      I'm passionate about data, open source, and sharing knowledge with others.
+
+      In addition to working with data and learning new things, I enjoy cycling, cooking, reading, and listening to podcasts. I'd love to chat if any of these interests resonate with you!
+
     imageUrl: "home/sazid.jpeg"
     imageWidth: 155
     imageHeight: 155
