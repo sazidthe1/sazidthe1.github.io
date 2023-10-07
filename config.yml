@@ -1,5 +1,5 @@
 baseURL: 'https://sazidthe1.github.io/'
-title: sazid
+title: Sazidul Islam
 theme: PaperMod
 paginate: 5
 theme: PaperMod
@@ -11,22 +11,18 @@ menu:
       name: home
       url: /
       weight: 10
-    - identifier: about
-      name: about
-      url: /about
-      weight: 20
     - identifier: projects
       name: projects
       url: /projects/
-      weight: 30
+      weight: 20
     - identifier: posts
       name: posts
       url: /posts
-      weight: 40
+      weight: 30
     - identifier: contact
       name: contact
       url: /contact/
-      weight: 50
+      weight: 40
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -42,7 +38,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: sazid.me
-  description: "Sazid | Data Evangelist"
+  description: "Welcome to Sazid.me!"
   keywords: [Blog, Data, Portfolio]
   # author: "Sazid"
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -67,13 +63,9 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+   disableHLJS: true # to disable highlight.js
+   disableFingerprinting: true
+  favicon: "<link rel='icon' type='image/x-icon' href='/static/favicon.ico'>"
 
   label:
     text: "sazid"
@@ -89,9 +81,9 @@ params:
 
       I find joy in working with data that positively impacts people's lives. 
       
-      I'm passionate about data, open source, and sharing knowledge with others.
+      I'm keen on data, open source, and sharing knowledge with others.
 
-      In addition to working with data and learning new things, I enjoy cycling, cooking, reading, and listening to podcasts. I'd love to chat if any of these interests resonate with you!
+      In addition to working with data and learning new things, I enjoy cycling, reading, and listening to podcasts. I'd love to chat if any of these interests resonate with you!
 
     imageUrl: "home/sazid.jpeg"
     imageWidth: 155

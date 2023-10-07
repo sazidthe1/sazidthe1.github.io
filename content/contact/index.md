@@ -1,13 +1,9 @@
 ---
-title: "Chat with me ☕️"
-#description: "☕️"
+title: "Contact"
+description: "☕️"
 ShowReadingTime: false
 ---
 
-If you are trying to do any of the following:
+If you would like to learn more about me, let's schedule a one-on-one call [here][link].
 
-- Self-learn data science
-- Break into the data science industry
-- Understand the different roles within the data industry
-
-You can schedule a 1:1 call with me from [here](https://bio.link/sazidthe1).
+[link]: https://bio.link/sazidthe1
