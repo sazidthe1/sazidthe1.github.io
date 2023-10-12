@@ -38,28 +38,21 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: sazid.me
-  description: "Welcome to Sazid.me!"
-  keywords: [Blog, Data, Portfolio]
-  # author: "Sazid"
+  description: "Welcome to Sazid.me"
+  keywords: [Portfolio, Blog, Data]
+  #author: Me
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "Jan, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: false
-  UseHugoToc: true
-  disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -77,9 +70,9 @@ params:
     enabled: true # needs to be explicitly set
     title: "Sazidul Islam"
     subtitle:
-      Hey! 👋 I'm Sazid, a Data Analyst at MMC in Asia. 🌏
+      Hey! 👋 I'm Sazid, a Data Analyst at MMC in Asia.
 
-      I find joy in working with data that positively impacts people's lives. 
+      I find joy in working with data that positively impacts people's lives.
       
       I'm keen on data, open source, and sharing knowledge with others.
 
@@ -99,16 +92,18 @@ params:
     Content: Welcome to my profile!
 
   socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sazidthe1"
     - name: "twitter"
       url: "https://twitter.com/sazidthe1"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/sazidthe1/"
     - name: "github"
       url: "https://github.com/sazidthe1"
     - name: "kaggle"
       url: "https://www.kaggle.com/sazidthe1"
-    - name: "dev"
-      url: "https://sazidthe1.hashnode.dev/"
+    - name: "medium"
+      url: "https://medium.com/@sazidthe1"
+    #- name: "email"
+    #  url: "mailto:sazidulislam29@gmail.com"
 
   analytics:
     google:
@@ -123,27 +118,9 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  #editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
-  # for search
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-
-pygmentsUseClasses: true
+# allow HTML in MD
 markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true

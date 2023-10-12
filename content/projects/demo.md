@@ -1,7 +1,7 @@
 ---
 title: "Demo"
 description: "This is a demo project"
-dateString: Aug 2023
+date: 2023-10-01
 draft: false
 tags: []
 showToc: false
