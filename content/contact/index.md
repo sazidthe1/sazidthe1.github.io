@@ -6,8 +6,6 @@ ShowReadingTime: false
 
 The best way to reach me is on [LinkedIn][link].
 
-I get it, I'm not into all the corporate stuff on there either. Trust me, I'm different.
-
 Or, drop me an email at info [at] sazid.me.
 
 Or, surprise me with a snail mail!
