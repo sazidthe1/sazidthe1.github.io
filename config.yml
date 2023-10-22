@@ -11,13 +11,13 @@ menu:
       name: home
       url: /
       weight: 10
-    - identifier: projects
-      name: projects
-      url: /projects/
-      weight: 20
     - identifier: posts
       name: posts
       url: /posts
+      weight: 20
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 30
     - identifier: contact
       name: contact
