@@ -70,13 +70,13 @@ params:
     enabled: true # needs to be explicitly set
     title: "Sazidul Islam"
     subtitle:
-      Hey! 👋 I'm Sazid, a Data Analyst at MMC in Asia.
+      Hey! 👋 I'm Sazid, an Analyst at MMC - Asia and the Pacific.
 
       I find joy in working with data that positively impacts people's lives.
-      
-      I'm passionate about data, analytics, and sharing knowledge with others.
 
-      When I'm not coding or learning something new, I enjoy cycling, reading, and listening to podcasts. If any of these interests resonate with you, I'd love to chat!
+      I'm a data science and machine learning enthusiast who is also passionate about open source, and sharing knowledge with others.
+
+      When I'm not coding or learning something new, I spend my time cycling, reading, and listening to podcasts. If any of these interests resonate with you, I'd love to chat!
 
     imageUrl: "home/sazid.jpeg"
     imageWidth: 155
