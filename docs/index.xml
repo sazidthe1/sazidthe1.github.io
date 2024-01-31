@@ -14,20 +14,29 @@
     <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sazidthe1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>https://sazidthe1.github.io/experience/demo/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sazidthe1.github.io/experience/demo/</guid>
-      <description>This is a demo project</description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
       <link>https://sazidthe1.github.io/projects/demo/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sazidthe1.github.io/projects/demo/</guid>
       <description>This is a demo project</description>
+    </item>
+    
+    <item>
+      <title>Data Analyst</title>
+      <link>https://sazidthe1.github.io/experience/mmc/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sazidthe1.github.io/experience/mmc/</guid>
+      <description>Mixed Migration Centre</description>
+    </item>
+    
+    <item>
+      <title>Information Management Officer</title>
+      <link>https://sazidthe1.github.io/experience/drc2/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sazidthe1.github.io/experience/drc2/</guid>
+      <description>Danish Refugee Council</description>
     </item>
     
     <item>
