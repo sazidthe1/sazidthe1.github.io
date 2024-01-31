@@ -8,21 +8,25 @@ publishDir: "docs"
 menu:
   main:
     - identifier: home
-      name: home
+      name: Home
       url: /
       weight: 10
-    - identifier: posts
-      name: posts
-      url: /posts
+    - identifier: about
+      name: About
+      url: /about
       weight: 20
-    - identifier: projects
-      name: projects
-      url: /projects/
+    - identifier: experience
+      name: Experience
+      url: /experience
       weight: 30
-    - identifier: contact
-      name: contact
-      url: /contact/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 40
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 50
 
 enableRobotsTXT: true
 buildDrafts: false
