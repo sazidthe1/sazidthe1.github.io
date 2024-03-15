@@ -74,7 +74,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Sazidul Islam"
     subtitle:
-      Hi! 👋 I'm Sazid, an Analyst at [**MMC**](https://mixedmigration.org/) - Asia and the Pacific, a leading source for independent and high quality data, information, research and analysis on mixed migration.
+      Hi! 👋 I'm Sazid, an Information Management Officer at [**MMC**](https://mixedmigration.org/) - Asia and the Pacific, a leading source for independent and high quality data, information, research and analysis on mixed migration.
 
       I find joy in working with data that positively impacts people's lives.
 
@@ -97,16 +97,16 @@ params:
 
   socialIcons:
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/sazidthe1"
-    - name: "twitter"
-      url: "https://twitter.com/sazidthe1"
+      url: "https://www.linkedin.com/in/sazidthe1" 
     - name: "github"
       url: "https://github.com/sazidthe1"
+    - name: "portfolio"
+      url: "https://www.datascienceportfol.io/sazidthe1"
     - name: "kaggle"
       url: "https://www.kaggle.com/sazidthe1"
     - name: "medium"
       url: "https://medium.com/@sazidthe1"
-    #- name: "email"
+    # - name: "email"
     #  url: "mailto:sazidulislam29@gmail.com"
 
   analytics:
