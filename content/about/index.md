@@ -5,7 +5,7 @@ ShowReadingTime: false
 showToc: false
 ---
 
-I'm an Analyst at MMC - Asia and the Pacific, dedicated to providing independent and high-quality data, information, and analysis on mixed migration. I find joy in working with data that positively impacts people’s lives. Currently, my focus is on `adding details later`. 
+I'm an Information Management Professional at MMC - Asia and the Pacific, dedicated to providing independent and high-quality data, information, and analysis on mixed migration. I find joy in working with data that positively impacts people’s lives. Currently, my focus is on `adding details later`. 
 
 Also, I'm passionate about open source and knowledge-sharing, I strive to contribute to the community.
 

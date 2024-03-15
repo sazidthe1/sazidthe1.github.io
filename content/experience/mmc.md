@@ -1,5 +1,5 @@
 ---
-title: "Data Analyst"
+title: "Regional Information Management Officer"
 description: "Mixed Migration Centre"
 date: '2022-10-01'
 draft: false
@@ -15,7 +15,7 @@ Mixed Migration Centre (MMC) is a global network engaged in data collection, res
 
  ![](/experience/tsa/cerner.jpeg)
 
-  I joined MMC - Asia and the Pacific team in Oct 2022 as a **Data Analyst** for **4Mi**, the flagship primary data collection system of MMC.
+  I joined MMC - Asia and the Pacific team in Oct 2022 as an **Information Management (IM) Officer** for **4Mi**, the flagship primary data collection system of MMC.
 
  - As part of my role,
  - 
